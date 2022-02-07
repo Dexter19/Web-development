@@ -865,6 +865,7 @@ body .section6 .owl-theme .owl-dots .owl-dot span {
   width: 48%;
   padding: 20px 10px;
   border-radius: 8px;
+  outline: none;
 }
 
 #msg {
@@ -875,6 +876,7 @@ body .section6 .owl-theme .owl-dots .owl-dot span {
   height: 320px;
   resize: none;
   padding: 20px;
+  outline: none;
 }
 
 .form_button button {
